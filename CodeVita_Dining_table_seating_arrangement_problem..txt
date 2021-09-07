@@ -1,4 +1,4 @@
-# CodeVita Dining table arrangement.
+# CodeVita Dining table seating arrangement.
 
 T = int(input("Enter the number of test cases:"))
 
